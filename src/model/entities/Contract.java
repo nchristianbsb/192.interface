@@ -51,4 +51,5 @@ public class Contract {
 		return installments;
 	}
 	
+
 }
